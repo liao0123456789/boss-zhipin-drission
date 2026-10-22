@@ -1,3 +1,4 @@
+<img width="647" height="654" alt="image" src="https://github.com/user-attachments/assets/5e3c1c0d-1032-4b65-90ae-da6d64cf48d3" />
 # Boss直聘投递助手
 
 一个基于 DrissionPage + PyQt6 的 Boss 直聘自动化辅助工具，用于减少求职过程中的重复操作。
