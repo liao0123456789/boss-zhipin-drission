@@ -57,7 +57,6 @@
 ```bash
 git clone https://github.com/liao0123456789/boss-zhipin-helper.git
 cd boss-zhipin-helper
-2.安装依赖
-pip install -r requirements.txt
-3.运行
 python main.py
+```
+
